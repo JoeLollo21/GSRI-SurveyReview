@@ -14,7 +14,7 @@ It is my hope that the data analysis and visualization I perform will help us id
 - Are UW graduate students overall satisfied with GSRI? Do they believe it is a good introduction to graduate-level work?
 
 ## Limitations
-This survey data is not fully representative of the GSRI participants -- in the 2022 survey alone, **only 50% of participants responded**, across two GSRI sessions. However, the samples received do encompass the diverse disciplines and academic interests of the participants.
+This survey data is not fully representative of the GSRI participants -- in the 2022 survey alone, **only 50% of participants responded**, across the two GSRI sessions. However, the samples received do encompass the diverse disciplines and academic interests of the participants.
 
 ## Findings
 To be updated.
