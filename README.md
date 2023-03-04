@@ -20,4 +20,4 @@ This survey data is not fully representative of the GSRI participants -- in the 
 To be updated.
 
 ## Notes
-- I'm wondering if I can get [U501](https://grad.uw.edu/for-students-and-post-docs/u501-graduate-school-orientation/) survey response data, as our office is doing competitor analysis with this program to see overlap and differences between U501 and GSRI, in a hope that it can better help us define the scope and content of our workshop. 
+- I'm wondering if I can get [U501](https://grad.uw.edu/for-students-and-post-docs/u501-graduate-school-orientation/) survey response data, as our office is doing competitor analysis with this program to see overlap and differences between U501 and GSRI, in a hope that it can better help us define the scope and content of our workshop: not sure if this would have to be a public records request or if I can just email the Graduate School asking for response data (they probably won't give it to me).
