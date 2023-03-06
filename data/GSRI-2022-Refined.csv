@@ -6,7 +6,7 @@ Timestamp,Discipline,Field,School,Session,Engagement-Style,Satisfied-Slack,Satis
 8/25/2022 7:22:42,STEM,Mechanical Engineering,Engineering,Session 1/A,Canvas only,,Yes,No,Confident,Strongly agree
 8/25/2022 11:37:22,STEM,Environmental and Forest Sciences,Environment,Session 1/A,Canvas only,,Yes,No,Comfortable,Agree
 8/25/2022 14:42:37,STEM,Architecture,Built Environments,Session 1/A,Canvas only,,Yes,No,Comfortable,Strongly agree
-8/25/2022 16:15:23,STEM,Bioengineering,Engineering,Session 1/A,Canvas only,NA,Yes,No,Comfortable,Agree
+8/25/2022 16:15:23,STEM,Bioengineering,Engineering,Session 1/A,Canvas only,N/A,Yes,No,Comfortable,Agree
 8/26/2022 7:42:39,Health Sciences,Epidemiology,School of Public Health,Session 1/A,Canvas only,,Yes,No,Somewhat anxious,Agree
 8/26/2022 9:50:44,Social Sciences,International Studies,Arts & Sciences,Session 1/A,Canvas only,,Yes,No,Comfortable,Strongly agree
 8/26/2022 10:01:58,Social Sciences,Psychology,Arts & Sciences,Session 1/A,Slack and Canvas,No,Yes,No,Comfortable,Strongly agree
@@ -23,7 +23,7 @@ Timestamp,Discipline,Field,School,Session,Engagement-Style,Satisfied-Slack,Satis
 9/12/2022 16:14:18,STEM,Aeronautics and Astronautics,Engineering,Session 2/B,Canvas only,,Yes,No,Confident,Agree
 9/15/2022 20:16:54,Social Sciences,Library and Information Science,Information School,Session 2/B,Canvas only,,Yes,No,Somewhat anxious,Neutral
 9/15/2022 21:08:03,STEM,Mechanical Engineering,Engineering,Session 2/B,Canvas only,,Yes,No,Comfortable,Strongly agree
-9/16/2022 12:30:37,Social Sciences,Communication,Arts & Sciences,Session 2/B,Canvas only,NA,Yes,Yes,Confident,Strongly agree
+9/16/2022 12:30:37,Social Sciences,Communication,Arts & Sciences,Session 2/B,Canvas only,N/A,Yes,Yes,Confident,Strongly agree
 9/16/2022 12:53:15,Social Sciences,Linguistics,Arts & Sciences,Session 2/B,Canvas only,,Yes,No,Comfortable,Agree
 9/16/2022 15:02:19,Business/Management,Information Management,Information School,Session 2/B,Canvas only,N/A,Yes,No,Comfortable,Strongly agree
 9/16/2022 16:35:42,STEM,Mechanical Engineering,Engineering,Session 1/A,Slack and Canvas,Yes,Yes,No,Comfortable,Agree
