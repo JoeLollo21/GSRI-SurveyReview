@@ -38,5 +38,28 @@ session_plot <- ggplot(session_df) +
 
 ggplotly(session_plot)
 
-# Equal number of respondents per session, but this is only half of the enrolled grad students.
+# Equal number of respondents per session, but this is only half of the enrolled grad students across the 2022 GSRI sessions.
+
 # More asynchronous respondents in the second session -- is this accurate to all of GSRI? Try to connect this with the broader student population (registered).
+
+# Create new data frame of satisfaction with GSRI.
+# Group by satisfaction levels with Slack and Canvas.
+slack_df <- responses_df %>% group_by(Session, Satisfied.Slack) %>% summarize(count = n())
+
+canvas_df <- responses_df %>% group_by(Session, Satisfied.Canvas) %>% summarize(count = n())
+
+# Exclude blank values.
+slack_df <- slack_df %>% filter(Satisfied.Slack != "")
+
+canvas_df <- canvas_df %>% filter(Satisfied.Canvas != "")
+
+# This is a smaller sample than this smaller sample! But it still works...
+
+# Visualize responses.
+slack_plot <- ggplot(slack_df) + geom_col(aes(x = Satisfied.Slack, y = count, fill = Session)) +
+  labs(title = "GSRI 2022 Survey Respondents' Satisfaction with Slack", x = "Indicator", y = "Number of Students")
+
+ggplotly(slack_plot)
+
+canvas_plot <- ggplot(canvas_df) + geom_col(aes(x = Satisfied.Canvas, y = count, fill = Session)) +
+  labs(title = "GSRI 2022 Survey Respondents' Satisfaction with Canvas", x = "Indicator", y = "Number of Students")
