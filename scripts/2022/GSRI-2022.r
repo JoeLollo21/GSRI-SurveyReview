@@ -1,10 +1,10 @@
 # Visualization and Analytics for 2022 GSRI Survey Respondents
 # Joe Lollo, UW Libraries
 
-# Import all relevant R Libraries:
-install.packages("tidyverse")
-install.packages("ggplot2")
-install.packages("plotly")
+# Import all relevant R Libraries (installation is once per machine):
+#install.packages("tidyverse")
+#install.packages("ggplot2")
+#install.packages("plotly")
 library("tidyverse")
 library("ggplot2")
 library("plotly")
