@@ -17,10 +17,10 @@ It is my hope that the data analysis and visualization I perform will help us id
 
 ## Limitations
 This survey data is not fully representative of the GSRI participants:
-- In the 2022 survey, **only 50% of participants responded** across the two sessions, but the samples received do encompass the diverse disciplines, academic interests, and engagement styles of the participants.
-- In the 2021 survey, **42% of participants responded** across the two sessions, and the sample is mostly of students from the first session. 
-This is tricky to work with, but works alright.
-
+- In the 2022 survey, **50% of participants responded** across the two sessions, but the samples received do encompass the diverse disciplines, academic interests, and engagement styles of the participants.
+- In the 2021 survey, **only 38% of participants responded** across the two sessions, and the sample is mostly of students from the first session. This is a   rather small sample size.
+<br>
+It's tricky to work with this data as a result, because I'm not sure about the full spectrum of GSRI participants' responses and satisfaction. This is something to keep in mind.
 ## Findings
 To be updated.
 
