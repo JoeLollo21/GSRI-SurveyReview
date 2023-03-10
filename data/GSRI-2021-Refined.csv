@@ -1,0 +1,43 @@
+Timestamp,Discipline,Field,School,Session,Engagement-Style,Satisfied-Slack,Satisfied-Canvas,Attended-Zoom,Comfort-Before,Comfort-After,Recommended
+8/27/2021 11:08:56,Health Sciences,Public Health,Public Health,Session 1/A,Slack and Canvas,Yes,,Yes,Comfortable,Confident,Strongly agree
+8/27/2021 12:16:04,STEM,Chemistry,Arts & Sciences,Session 1/A,Canvas only,,Yes,No,Anxious,Comfortable,Agree
+8/27/2021 12:53:19,STEM,Computer Science,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,,Yes,Anxious,Comfortable,Agree
+8/27/2021 13:26:24,STEM,Chemistry,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,Yes,Yes,Comfortable,Confident,Strongly agree
+8/27/2021 14:06:01,Social Sciences,Library and Information Science,Information School,Session 1/A,Slack and Canvas,Yes,,No,Anxious,Comfortable,Strongly agree
+8/27/2021 14:55:35,STEM,Chemistry,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,,Yes,Comfortable,Comfortable,Agree
+8/27/2021 17:24:07,Health Sciences,Public Health,Public Health,Session 1/A,Slack and Canvas,Yes,Yes,Yes,Somewhat anxious,Comfortable,Strongly agree
+8/27/2021 18:32:11,Social Sciences,Psychology,Arts & Sciences,Session 1/A,Canvas only,,Yes,No,Comfortable,Confident,Strongly agree
+8/27/2021 18:52:34,Social Sciences,Library and Information Science,Information School,Session 1/A,Slack and Canvas,Yes,,Yes,Somewhat anxious,Comfortable,Strongly agree
+8/27/2021 18:57:47,Health Sciences,Nursing,Nursing,Session 1/A,Slack and Canvas,Yes,,No,Confident,Very confident,Agree
+8/27/2021 20:28:24,Health Sciences,Nursing,Nursing,Session 1/A,Canvas only,Yes,,No,Comfortable,Very confident,Strongly agree
+8/29/2021 9:17:39,Arts/Humanities,English,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,,Yes,Anxious,Comfortable,Strongly agree
+8/29/2021 9:49:32,Social Sciences,Linguistics,Arts & Sciences,Session 1/A,Canvas only,,Yes,No,Somewhat anxious,Comfortable,Agree
+8/29/2021 12:42:06,STEM,Biology,Arts & Sciences,Session 1/A,Canvas only,,Yes,No,Comfortable,Confident,Strongly agree
+8/29/2021 17:35:51,Social Sciences,Education,Education,Session 1/A,Slack and Canvas,No,Yes,No,Somewhat anxious,Very confident,Strongly agree
+8/30/2021 2:25:25,Business/Management,Information Management,Information School,Session 1/A,Slack and Canvas,Yes,Yes,No,Anxious,Comfortable,Strongly agree
+8/30/2021 3:38:18,STEM,Computational Finance and Risk Management,Arts & Sciences,Session 1/A,Canvas only,Yes,Yes,No,Comfortable,Comfortable,Disagree
+8/30/2021 12:30:40,Health Sciences,Public Health,Public Health,Session 1/A,Slack and Canvas,Yes,,No,Comfortable,Confident,Neutral
+8/30/2021 18:10:20,Business/Management,Marketing,Foster School,Session 1/A,Slack and Canvas,,Yes,No,Somewhat anxious,Confident,Strongly agree
+8/30/2021 19:34:13,Social Sciences,International Studies,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,,No,Very confident,Comfortable,Strongly agree
+8/30/2021 22:43:17,STEM,Mechanical Engineering,Engineering,Session 1/A,Canvas only,,Yes,No,Comfortable,Comfortable,Agree
+8/30/2021 23:22:33,STEM,Computer Science,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,,Yes,Confident,Confident,Neutral
+8/31/2021 2:01:25,Health Sciences,Public Health,Public Health,Session 1/A,Slack and Canvas,Yes,,No,Somewhat anxious,Comfortable,Agree
+8/31/2021 23:23:41,Business/Management,Information Management,Information School,Session 1/A,Slack and Canvas,Yes,,No,Somewhat anxious,Confident,Strongly agree
+9/16/2021 11:05:45,Social Sciences,Communication,Arts & Sciences,Session 2/B,Canvas only,,Yes,Yes,Anxious,Confident,Strongly agree
+9/16/2021 17:08:49,STEM,Statistics,Arts & Sciences,Session 2/B,Slack and Canvas,Yes,,No,Anxious,Comfortable,Agree
+9/17/2021 11:07:37,Health Sciences,Nursing,Nursing,Session 2/B,Canvas only,,Yes,Yes,Somewhat anxious,Comfortable,Strongly agree
+9/17/2021 12:11:10,STEM,Chemistry,Arts & Sciences,Session 2/B,Slack and Canvas,Yes,,No,Confident,Very confident,Agree
+9/17/2021 13:18:45,Social Sciences,Psychology,Arts & Sciences,Session 2/B,Canvas only,,Yes,Yes,Confident,Confident,Agree
+9/17/2021 16:28:05,Health Sciences,Nursing,Nursing,Session 2/B,Canvas only,,Yes,No,Anxious,Comfortable,Strongly agree
+9/17/2021 17:32:02,Health Sciences,Physical Therapy,Medicine,Session 2/B,Slack and Canvas,Yes,,No,Somewhat anxious,Comfortable,Agree
+9/18/2021 14:53:02,Business/Management,Business Analytics,Business Analytics,Session 2/B,Canvas only,,Yes,No,Comfortable,Comfortable,Agree
+9/20/2021 14:57:04,Social Sciences,Library and Information Science,Information School,Session 2/B,Slack and Canvas,Yes,,Yes,Comfortable,Very confident,Agree
+9/20/2021 15:23:11,Social Sciences,Computational Linguistics,Arts & Sciences,Session 2/B,Slack and Canvas,Yes,,Yes,Anxious,Comfortable,Strongly agree
+9/20/2021 15:28:22,Health Sciences,Public Health,Public Health,Session 2/B,Canvas only,,Yes,Yes,Somewhat anxious,Comfortable,Agree
+9/20/2021 15:48:56,STEM,Mechanical Engineering,Engineering,Session 2/B,Canvas only,,Yes,No,Anxious,Comfortable,Agree
+9/20/2021 16:26:24,Social Sciences,Library and Information Science,Information School,Session 2/B,Slack and Canvas,Yes,,Yes,Anxious,Comfortable,Strongly agree
+9/20/2021 20:53:55,Health Sciences,Nursing,Nursing,Session 2/B,Slack and Canvas,Yes,,Yes,Comfortable,Confident,Strongly agree
+9/22/2021 18:46:12,Social Sciences,Library and Information Science,Information School,Session 2/B,Canvas only,,Yes,No,Somewhat anxious,Comfortable,Agree
+9/22/2021 20:39:56,STEM,Physics,Arts & Sciences,Session 2/B,Canvas only,Yes,,Yes,Comfortable,Comfortable,Agree
+9/23/2021 15:54:29,Social Sciences,Geography,Geography,Session 2/B,Slack and Canvas,Yes,,No,Somewhat anxious,Comfortable,Strongly agree
+9/29/2021 9:03:08,Health Sciences,Nursing,Nursing,Session 2/B,Canvas only,,Yes,No,Somewhat anxious,Confident,Strongly agree
