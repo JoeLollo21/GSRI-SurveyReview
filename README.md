@@ -12,6 +12,7 @@ It is my hope that the data analysis and visualization I perform will help us id
 - Are there certain academic fields and disciplines that are over- or under-represented within GSRI? And if so, can we add more specific content to their fields?
 - Is there a higher rate of satisfaction with GSRI participants in the synchronous (Zoom and Slack) or asynchronous (Slack only) session? 
 - Are UW graduate students overall satisfied with GSRI? Do they believe it is a good introduction to graduate-level work?
+- How has graduate student satisfaction with GSRI changed over time?
 
 ## Limitations
 This survey data is not fully representative of the GSRI participants -- in the 2022 survey alone, **only 50% of participants responded**, across the two GSRI sessions. However, the samples received do encompass the diverse disciplines and academic interests of the participants.
