@@ -1,6 +1,6 @@
 Timestamp,Discipline,Field,School,Session,Engagement-Style,Satisfied-Slack,Satisfied-Canvas,Attended-Zoom,Comfort-Before,Comfort-After,Recommended
-8/27/2021 11:08:56,Health Sciences,Public Health,Public Health,Session 1/A,Slack and Canvas,Yes,,Yes,Comfortable,Confident,Strongly agree
-8/27/2021 12:16:04,STEM,Chemistry,Arts & Sciences,Session 1/A,Canvas only,,Yes,No,Anxious,Comfortable,Agree
+8/27/2021 11:08:56,Health Sciences,Public Health,Public Health,Session 1/A,Slack and Canvas,Yes,Yes,Yes,Comfortable,Confident,Strongly agree
+8/27/2021 12:16:04,STEM,Chemistry,Arts & Sciences,Session 1/A,Canvas only,No,Yes,No,Anxious,Comfortable,Agree
 8/27/2021 12:53:19,STEM,Computer Science,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,,Yes,Anxious,Comfortable,Agree
 8/27/2021 13:26:24,STEM,Chemistry,Arts & Sciences,Session 1/A,Slack and Canvas,Yes,Yes,Yes,Comfortable,Confident,Strongly agree
 8/27/2021 14:06:01,Social Sciences,Library and Information Science,Information School,Session 1/A,Slack and Canvas,Yes,,No,Anxious,Comfortable,Strongly agree
